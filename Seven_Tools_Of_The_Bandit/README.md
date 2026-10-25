@@ -5,6 +5,9 @@ A sysadmin multi-tool firmware for the **M5Stack Cardputer v1** (ESP32-S3).
 UI, a physical lock screen, and a vector-drawn pirate-knife welcome screen —
 no bitmap UI assets, everything is drawn live on the 240×135 display.
 
+📖 **[Full documentation](DOCUMENTATION.md)** — requirements, controls, and
+every tool explained category by category, with screenshots.
+
 ![Splash screen](docs/images/01_splash.png)
 ![Welcome screen](docs/images/02_welcome.png)
 
